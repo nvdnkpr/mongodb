@@ -1,0 +1,7 @@
+{
+  "name": "mongodb",
+  "version": "0.1.0",
+  "description": "Official Docker MongoDB.",
+  "author": "Kitematic",
+  "logo": "logo.png"
+}
